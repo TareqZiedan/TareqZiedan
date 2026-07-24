@@ -11,7 +11,7 @@ Currently focused on component architecture, accessibility, and keeping bundles 
 
 | Project | What it is | Stack | Live |
 | --- | --- | --- | --- |
-| [bsc](https://github.com/TareqZiedan/bsc) | A marketing site for a fictional design studio, built to practise motion and layout. | Next.js · TypeScript · SCSS | [Demo](https://bsc-nine-sigma.vercel.app/) |
+| [motion-studio-landing](https://github.com/TareqZiedan/bsc) | A marketing site for a fictional design studio, built to practise motion and layout. | Next.js · TypeScript · SCSS | [Demo](https://motion-studio-landing-t-dev.vercel.app/) |
 | [shopshifter](https://github.com/TareqZiedan/shopshifter) | A small storefront built to get the Redux state layer right. | Next.js · TypeScript · Redux Toolkit | [Demo](https://shopshifter-mu.vercel.app/) |
 
 ---
