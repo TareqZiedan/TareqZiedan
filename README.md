@@ -3,7 +3,7 @@
 Frontend developer building web interfaces with React, Next.js and TypeScript.
 Currently focused on component architecture, accessibility, and keeping bundles small.
 
-**Portfolio:** [tareq-z-dev.vercel.app](https://tareq-z-dev.vercel.app/) · **LinkedIn:** [tareqziedan](https://www.linkedin.com/in/tareqziedan) · **Email:** tareqziedan@gmail.com
+**Portfolio:** [tareq-z-dev.vercel.app](https://tareq-z-dev.vercel.app/) · **LinkedIn:** [linkedin.com/in/tareqziedan](https://www.linkedin.com/in/tareqziedan) · **Email:** tareqziedan@gmail.com
 
 ---
 
@@ -11,9 +11,12 @@ Currently focused on component architecture, accessibility, and keeping bundles 
 
 | Project | What it is | Stack | Live |
 | --- | --- | --- | --- |
-| [project-one](https://github.com/TareqZiedan/project-one) | One sentence on what it does and who it's for. | Next.js · TypeScript · Tailwind | [Demo](https://project-one.vercel.app) |
-| [project-two](https://github.com/TareqZiedan/project-two) | One sentence on what it does and who it's for. | React · Vite · SCSS | [Demo](https://project-two.vercel.app) |
-| [project-three](https://github.com/TareqZiedan/project-three) | One sentence on what it does and who it's for. | React · TypeScript · Zustand | [Demo](https://project-three.vercel.app) |
+| [bsc](https://github.com/TareqZiedan/bsc) | A single-page marketing site for a fictional design studio — hero through contact, nine
+sections, each one its own composition. Built to practise motion and layout rhythm on a
+real-world brief. | Next.js · TypeScript · SCSS | [Demo](https://bsc-nine-sigma.vercel.app/) |
+| [shopshifter](https://github.com/TareqZiedan/shopshifter) | A small storefront — browse, cart, demo sign-in — built to get the Redux state layer right
+rather than to ship a store. All persistence lives in a listener middleware, so the reducers
+stay pure and testable. | Next.js · TypeScript · Redux Toolkit | [Demo](https://shopshifter-mu.vercel.app/) |
 
 ---
 
@@ -27,7 +30,3 @@ Currently focused on component architecture, accessibility, and keeping bundles 
 
 ---
 
-### Currently
-
-Building [short description of the thing] — [one specific technical thing you're wrestling with].
-Open to junior frontend roles, remote or [your city].
