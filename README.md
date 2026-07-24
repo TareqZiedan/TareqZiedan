@@ -11,12 +11,8 @@ Currently focused on component architecture, accessibility, and keeping bundles 
 
 | Project | What it is | Stack | Live |
 | --- | --- | --- | --- |
-| [bsc](https://github.com/TareqZiedan/bsc) | A single-page marketing site for a fictional design studio — hero through contact, nine
-sections, each one its own composition. Built to practise motion and layout rhythm on a
-real-world brief. | Next.js · TypeScript · SCSS | [Demo](https://bsc-nine-sigma.vercel.app/) |
-| [shopshifter](https://github.com/TareqZiedan/shopshifter) | A small storefront — browse, cart, demo sign-in — built to get the Redux state layer right
-rather than to ship a store. All persistence lives in a listener middleware, so the reducers
-stay pure and testable. | Next.js · TypeScript · Redux Toolkit | [Demo](https://shopshifter-mu.vercel.app/) |
+| [bsc](https://github.com/TareqZiedan/bsc) | A marketing site for a fictional design studio, built to practise motion and layout. | Next.js · TypeScript · SCSS | [Demo](https://bsc-nine-sigma.vercel.app/) |
+| [shopshifter](https://github.com/TareqZiedan/shopshifter) | A small storefront built to get the Redux state layer right. | Next.js · TypeScript · Redux Toolkit | [Demo](https://shopshifter-mu.vercel.app/) |
 
 ---
 
